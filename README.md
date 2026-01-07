@@ -7,7 +7,7 @@ I am a Business Intelligence student with an interest in data analysis and machi
 - Analyzed a healthcare dataset to build a dashboard that provides actionable insights
 - Implemented a machine learning pipeline for crime pattern analysis, integrating classification and clustering techniques
 
-#### About Me
+#### 🔍 About Me
 - Mathematics and Engineering background with 7 years of experience in mechanical engineering
 - Transitioning into data analytics and machine learning
 - Plays recreational league volleyball
